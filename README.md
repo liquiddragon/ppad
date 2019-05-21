@@ -23,25 +23,33 @@ How to use and re-create obtained results as closely as possible. Why not exact?
 - Re-analysis uses only original data CSV file.
 
 I) Obtain original data from http://bit.ly/1oZnEKG
+
 II) Extract sigite2014-difficulty-data.csv
 
 Imputation
+
 III) Execute msc_impute_difficulty.py
+
 IV) Combine output files using msc_combine_imputed_data.py
 
 Course model
+
 V) Execute msc_course_model.r
 
 Exercise model
+
 VI) Execute msc_exercise_model.r
 
 Exercise model with history
+
 VII) Execute msc_exercise_model_with_history.r
 
 Obtaining figures in results chapter
+
 VIII) Execute msc_results_graphs.r
 
 Others
-For re-analysis part execute msc_re_analysis_ctree.r
-For information on imputation and original data counts execute msc_number_of_submissions.r
 
+For re-analysis part execute msc_re_analysis_ctree.r
+
+For information on imputation and original data counts execute msc_number_of_submissions.r
