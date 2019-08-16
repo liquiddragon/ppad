@@ -1,6 +1,6 @@
 # Predicting programming assignment difficulty related code
 
-The paper associated with this data will be linked here once it is available.
+The paper associated with this data can be found from http://urn.fi/URN:NBN:fi:hulib-201908133223
 
 ## Software
 
